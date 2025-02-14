@@ -26,6 +26,10 @@ If you would prefer to download python onto your computer and work locally, you 
 
 ## Local Installation Instructions (OPTIONAL)
 
+Due to time constraints, we won't be able to cover how to install Anaconda today, but you can find the instructions on how to do so below. 
+
+If you have any issues with the local installation (or with Python, or Data Science related questions) we encourage you to take advantage of the Consulting services at the D-Lab: https://dlab.berkeley.edu/consulting.
+
 Anaconda is a useful package management software that allows you to run Python
 and Jupyter notebooks easily. Installing Anaconda is the easiest way to make
 sure you have all the necessary software to run the materials for this workshop.
@@ -48,4 +52,4 @@ steps prior to the workshop:
 Now that you have all the required software and materials, you need to run the code:
 1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time.
 
-2. Click the "Launch" button under "Jupyter Lab" and navigate through your file system to the HAAS-Python-Workshop folder you downloaded above.
+2. Click the "Launch" button under "Jupyter Lab" and navigate through your file system to the Data_4AC-Python-Workshop folder you downloaded above.
