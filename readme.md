@@ -6,7 +6,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab’s Haas Python Workshop. No prior experience with Python is required to attend this workshop.
+This repository contains the materials for D-Lab’s Data 4AC Python Workshop. No prior experience with Python is required to attend this workshop.
 
 ## Workshop Goals
 
