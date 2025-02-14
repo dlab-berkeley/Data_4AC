@@ -1,6 +1,6 @@
-# Haas Python Workshop
+# Data 4AC Python Workshop
 
-<a target="_blank" href="https://colab.research.google.com/github/dlab-berkeley/HAAS-Python-Workshop">
+<a target="_blank" href="https://colab.research.google.com/github/dlab-berkeley/Data_4AC">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -15,12 +15,12 @@ This workshop provides a gentle introduction to data analysis in Python for lear
 ## Getting Started
 To get started, you can click the following link to open this repository in Google Colab, a cloud based python environment:  
 
-<a target="_blank" href="https://colab.research.google.com/github/dlab-berkeley/HAAS-Python-Workshop">
+<a target="_blank" href="https://colab.research.google.com/github/dlab-berkeley/Data_4AC">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>  
 
 Alternatively, you can access the repository via DataHub, a cloud based environment hosted by UC Berkeley:  
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FHAAS-Python-Workshop&urlpath=tree%2FHAAS-Python-Workshop%2F&branch=main)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FData_4AC&urlpath=tree%2FData_4AC%2F&branch=main)
 
 If you would prefer to download python onto your computer and work locally, you can follow the instructions below.
 
